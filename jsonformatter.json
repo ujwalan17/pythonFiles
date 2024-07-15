@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": "hwf124",
+      "brand": "I-tech",
+      "gadget": "mobile",
+      "cost": 38747834,
+      "config": {
+        "processor": "sifh",
+        "ram": "387423T",
+        "operating-system": "linux"
+      },
+      "reviews": [
+        {
+          "name": "iodhcw",
+          "uid": 1236,
+          "r_sugg": "product is good",
+          "mobile": [
+            {
+              "home": 47567823465
+            },
+            {
+              "personal": 83746
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id2": "uhn24",
+      "brand": "b-tech",
+      "gadget": "lap",
+      "cost": 293847,
+      "config": {
+        "processor": "owiqhf",
+        "ram": "quwh23478",
+        "operating-sys": "linux"
+      },
+      "reviews": [
+        {
+          "name": "iusfy",
+          "uid": 1234,
+          "r_suggest": "product is good",
+          "mobile": [
+            {
+              "home": 239587253
+            },
+            {
+              "personal": 2394876
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
